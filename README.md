@@ -1,5 +1,12 @@
 # Shutter
 
+> **Archived 2026-08-15 — moved into the fleet monorepo.**
+>
+> Development continues at `shutter/` in `git@github.com:deepwa7er/fleet.git`
+> (PR deepwa7er/fleet#43). Every commit in this repository was carried across
+> with its history intact, so this repo is a snapshot, not the source of
+> truth. Work on shutter there; this one is read-only.
+
 A screenshot tool for macOS: capture a region, a window, or a whole display,
 draw red rectangles on the result, then copy it and save it.
 
